@@ -4,7 +4,7 @@
 💎 ㅤEWHA Computer Science & Engineering / Content Convergence </br></br>
 💎 ㅤTELOS 스마트 인터랙션 트랙 / 콘텐츠 서비스 & 기획 트랙 </br></br>
 💎 ㅤ소프트웨어학부 소속 게임제작동아리 KING 12기 </br></br>
-💎 ㅤ전국 대학생 게임개발 동아리 연합 UNIDEV 2023 </br></br>
+💎 ㅤ전국 대학생 게임개발 동아리 연합회 UNIDEV 2023 </br></br>
 </div>
 
 <div align = center>
